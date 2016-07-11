@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/johnny6059/git-node-test#readme",
   "dependencies": {
+    "connect": "^3.4.1",
     "express": "^4.14.0"
   }
 }
