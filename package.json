@@ -1,0 +1,22 @@
+{
+  "name": "git-node-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnny6059/git-node-test.git"
+  },
+  "author": "johnny6059",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnny6059/git-node-test/issues"
+  },
+  "homepage": "https://github.com/johnny6059/git-node-test#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
