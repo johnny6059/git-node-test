@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/johnny6059/git-node-test#readme",
   "dependencies": {
+    "async": "^2.0.1",
     "connect": "^3.4.1",
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "moment": "^2.15.1",
+    "ramda": "^0.22.1"
   }
 }
